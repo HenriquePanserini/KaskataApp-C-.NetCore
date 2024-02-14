@@ -1,4 +1,5 @@
 ﻿using KaskataDDD.Infrastructure.Notifications;
+using Microsoft.VisualBasic;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
@@ -25,5 +26,9 @@ namespace KaskataDDD.Infrastructure.Entities
         [Column("NWS_DATE_UPDATE")]
         public DateTime Updated { get; set; }
 
+        [ForeignKey("ApplicationUser")]
+        [Column(Order = 1)]
+        public Strings UserId { get; set; }
+        public virtual ApplicationUser ApplicationUser { get; set; }
     }
 }
