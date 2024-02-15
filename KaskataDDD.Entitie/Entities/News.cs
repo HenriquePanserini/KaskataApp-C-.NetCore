@@ -21,9 +21,9 @@ namespace KaskataDDD.Infrastructure.Entities
         [Column("NWS_STATUS")]
         public Boolean Status { get; set; }
         [Column("NWS_DATE_CREATED")]
-        public DateTime Created { get; set; }
+        public DateTime CreatedDate { get; set; }
         [Column("NWS_DATE_UPDATE")]
-        public DateTime Updated { get; set; }
+        public DateTime UpdatedDate { get; set; }
 
     }
 }

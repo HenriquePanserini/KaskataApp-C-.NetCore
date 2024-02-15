@@ -11,7 +11,7 @@ namespace KaskataDDD.Domain.Interface.IterfaceService
     {
 
         Task CreateNews(News news);
-        Task DeleteNews(News news);
+        Task UpgradeNews(News news);
         Task<List<News>> ListNews();
 
     }

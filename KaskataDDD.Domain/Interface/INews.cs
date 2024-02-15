@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace KaskataDDD.Domain.Interface
 {
-    internal interface INews : IGenerics<News>
+    public interface INews : IGenerics<News>
     {
         Task<List<News>> ListNews(Expression<Func<News, Boolean>> expressionNews);
     }
