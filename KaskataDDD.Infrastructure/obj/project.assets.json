@@ -945,6 +945,23 @@
             "rid": "win"
           }
         }
+      },
+      "KaskataDDD.Entitie/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.26",
+          "Microsoft.AspNetCore.Identity.UI": "6.0.26",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.26",
+          "Microsoft.Extensions.Identity.Core": "6.0.26",
+          "Newtonsoft.Json": "13.0.3"
+        },
+        "compile": {
+          "bin/placeholder/KaskataDDD.Entitie.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/KaskataDDD.Entitie.dll": {}
+        }
       }
     }
   },
@@ -2451,10 +2468,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "KaskataDDD.Entitie/1.0.0": {
+      "type": "project",
+      "path": "../KaskataDDD.Entitie/KaskataDDD.Entitie.csproj",
+      "msbuildProject": "../KaskataDDD.Entitie/KaskataDDD.Entitie.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "KaskataDDD.Entitie >= 1.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.26",
       "Microsoft.AspNetCore.Identity.UI >= 6.0.26",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.26",
@@ -2496,7 +2519,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\henri\\source\\repos\\KaskataDDD\\KaskataDDD.Entitie\\KaskataDDD.Entitie.csproj": {
+              "projectPath": "C:\\Users\\henri\\source\\repos\\KaskataDDD\\KaskataDDD.Entitie\\KaskataDDD.Entitie.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
