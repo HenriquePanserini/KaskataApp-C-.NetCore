@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WB+LI4/OCQdFtrUu05LO4bKmWj+lB0QuTuZ35DSOy7W7aNjbq/5m+THNMZhLa8NAqcifALISVMZKNFCJdxIn8Q==",
+  "dgSpecHash": "R5tNP4sDDIuvDDGo66g1WvNQmIgymJsF+MVxGvchbdQVry0shP0a/n6KG+67eTbZnifHl7ChCa7iXUdzuAbqNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\henri\\source\\repos\\KaskataDDD\\KaskataDDD.Domain\\KaskataDDD.Domain.csproj",
+  "projectFilePath": "C:\\Users\\henri\\source\\repos\\KaskataApp-C-.NetCore\\KaskataDDD.Domain\\KaskataDDD.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\henri\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.26\\microsoft.aspnetcore.cryptography.internal.6.0.26.nupkg.sha512",
     "C:\\Users\\henri\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.26\\microsoft.aspnetcore.cryptography.keyderivation.6.0.26.nupkg.sha512",

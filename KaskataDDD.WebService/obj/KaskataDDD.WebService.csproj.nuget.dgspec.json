@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\henri\\source\\repos\\KaskataDDD\\KaskataDDD.WebService\\KaskataDDD.WebService.csproj": {}
+    "C:\\Users\\henri\\source\\repos\\KaskataApp-C-.NetCore\\KaskataDDD.WebService\\KaskataDDD.WebService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\henri\\source\\repos\\KaskataDDD\\KaskataDDD.WebService\\KaskataDDD.WebService.csproj": {
+    "C:\\Users\\henri\\source\\repos\\KaskataApp-C-.NetCore\\KaskataDDD.WebService\\KaskataDDD.WebService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\henri\\source\\repos\\KaskataDDD\\KaskataDDD.WebService\\KaskataDDD.WebService.csproj",
+        "projectUniqueName": "C:\\Users\\henri\\source\\repos\\KaskataApp-C-.NetCore\\KaskataDDD.WebService\\KaskataDDD.WebService.csproj",
         "projectName": "KaskataDDD.WebService",
-        "projectPath": "C:\\Users\\henri\\source\\repos\\KaskataDDD\\KaskataDDD.WebService\\KaskataDDD.WebService.csproj",
+        "projectPath": "C:\\Users\\henri\\source\\repos\\KaskataApp-C-.NetCore\\KaskataDDD.WebService\\KaskataDDD.WebService.csproj",
         "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\henri\\source\\repos\\KaskataDDD\\KaskataDDD.WebService\\obj\\",
+        "outputPath": "C:\\Users\\henri\\source\\repos\\KaskataApp-C-.NetCore\\KaskataDDD.WebService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

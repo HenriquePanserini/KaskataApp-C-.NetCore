@@ -22,4 +22,9 @@
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\KaskataDDD.Domain\KaskataDDD.Domain.csproj" />
+    <ProjectReference Include="..\KaskataDDD.Entitie\KaskataDDD.Entitie.csproj" />
+  </ItemGroup>
+
 </Project>
