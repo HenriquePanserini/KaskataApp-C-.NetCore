@@ -11,8 +11,8 @@ namespace KaskataDDD.Domain.Interface.Generics
         Task Create(T objeto);
         Task Upgrade(T objeto);
         Task Delete(T objeto);
-        Task<T> GetId(int id);
-        Task<List<T>> List();
+        Task<T> GetById(int id);
+        Task<List<T>> GetAll();
 
     }
 }
