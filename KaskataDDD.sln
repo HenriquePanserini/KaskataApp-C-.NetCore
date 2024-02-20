@@ -13,15 +13,20 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4-Entitie", "4-Entitie", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5-Infrastructure", "5-Infrastructure", "{44FE88D0-908D-492D-B00E-A97635F785D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaskataDDD.WebService", "KaskataDDD.WebService\KaskataDDD.WebService.csproj", "{E2709C8A-7585-44D8-A992-A86E088698B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KaskataDDD.WebService", "KaskataDDD.WebService\KaskataDDD.WebService.csproj", "{E2709C8A-7585-44D8-A992-A86E088698B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaskataDDD.Application", "KaskataDDD.Application\KaskataDDD.Application.csproj", "{A644E187-9E48-4BD6-BDD3-9ECE3075F360}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KaskataDDD.Application", "KaskataDDD.Application\KaskataDDD.Application.csproj", "{A644E187-9E48-4BD6-BDD3-9ECE3075F360}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaskataDDD.Domain", "KaskataDDD.Domain\KaskataDDD.Domain.csproj", "{006557A2-4297-4E46-BC74-E9CB6D4DFA7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KaskataDDD.Domain", "KaskataDDD.Domain\KaskataDDD.Domain.csproj", "{006557A2-4297-4E46-BC74-E9CB6D4DFA7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaskataDDD.Entitie", "KaskataDDD.Entitie\KaskataDDD.Entitie.csproj", "{BE5DE9AB-1A4E-44CA-B6F7-BF8CAD8ED419}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KaskataDDD.Entitie", "KaskataDDD.Entitie\KaskataDDD.Entitie.csproj", "{BE5DE9AB-1A4E-44CA-B6F7-BF8CAD8ED419}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaskataDDD.Infrastructure", "KaskataDDD.Infrastructure\KaskataDDD.Infrastructure.csproj", "{ACEF18EC-31F3-43F2-BC35-03F4E5289F8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KaskataDDD.Infrastructure", "KaskataDDD.Infrastructure\KaskataDDD.Infrastructure.csproj", "{ACEF18EC-31F3-43F2-BC35-03F4E5289F8E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8918FE29-75E7-4E05-BFA7-9539C8A6B1B7}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

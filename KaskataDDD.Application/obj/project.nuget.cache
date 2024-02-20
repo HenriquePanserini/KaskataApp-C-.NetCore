@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kInOmsAQ4rT6CumV6AfwOQpolTBLeuW6LZGrlsqjNs5Q+vUQLyeDPoSE17BSjEHL2bL1Of4WLNjiAaGCbBDvKw==",
+  "dgSpecHash": "FSdP82G/kuKOBKXmzsMEY9hssBmY4ySeZgbDff1ANk955r4hWqCsLB/45uzp4HWeJ8MImQSakBQr6PZnmrkHpA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\henri\\source\\repos\\KaskataDDD\\KaskataDDD.Application\\KaskataDDD.Application.csproj",
+  "projectFilePath": "C:\\Users\\henri\\source\\repos\\KaskataApp-C-.NetCore\\KaskataDDD.Application\\KaskataDDD.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\henri\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WCzOkJOMU1fWKQR/2spcBJwfoLECkikkVHI4uYdtEaEqorDKX+6GlgK8jrDqCu1FH/KDpyyM4Z1CMVntte2pDA==",
+  "dgSpecHash": "zlChZM5meikldfi4PJES36Dp/ERYXIGSMOue70G7nXaAeaCI2Jb5uCJtHyE6ujcgjH9Sr0ZE4qmYznynSk0RcA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\henri\\source\\repos\\KaskataDDD\\KaskataDDD.Infrastructure\\KaskataDDD.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\henri\\source\\repos\\KaskataApp-C-.NetCore\\KaskataDDD.Infrastructure\\KaskataDDD.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\henri\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\henri\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.26\\microsoft.aspnetcore.cryptography.internal.6.0.26.nupkg.sha512",

@@ -946,6 +946,20 @@
           }
         }
       },
+      "KaskataDDD.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "KaskataDDD.Entitie": "1.0.0",
+          "Newtonsoft.Json": "13.0.3"
+        },
+        "compile": {
+          "bin/placeholder/KaskataDDD.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/KaskataDDD.Domain.dll": {}
+        }
+      },
       "KaskataDDD.Entitie/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -2469,6 +2483,11 @@
         "version.txt"
       ]
     },
+    "KaskataDDD.Domain/1.0.0": {
+      "type": "project",
+      "path": "../KaskataDDD.Domain/KaskataDDD.Domain.csproj",
+      "msbuildProject": "../KaskataDDD.Domain/KaskataDDD.Domain.csproj"
+    },
     "KaskataDDD.Entitie/1.0.0": {
       "type": "project",
       "path": "../KaskataDDD.Entitie/KaskataDDD.Entitie.csproj",
@@ -2477,6 +2496,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "KaskataDDD.Domain >= 1.0.0",
       "KaskataDDD.Entitie >= 1.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.26",
       "Microsoft.AspNetCore.Identity.UI >= 6.0.26",
@@ -2494,11 +2514,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\henri\\source\\repos\\KaskataDDD\\KaskataDDD.Infrastructure\\KaskataDDD.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\henri\\source\\repos\\KaskataApp-C-.NetCore\\KaskataDDD.Infrastructure\\KaskataDDD.Infrastructure.csproj",
       "projectName": "KaskataDDD.Infrastructure",
-      "projectPath": "C:\\Users\\henri\\source\\repos\\KaskataDDD\\KaskataDDD.Infrastructure\\KaskataDDD.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\henri\\source\\repos\\KaskataApp-C-.NetCore\\KaskataDDD.Infrastructure\\KaskataDDD.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\henri\\source\\repos\\KaskataDDD\\KaskataDDD.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\henri\\source\\repos\\KaskataApp-C-.NetCore\\KaskataDDD.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2520,8 +2540,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\henri\\source\\repos\\KaskataDDD\\KaskataDDD.Entitie\\KaskataDDD.Entitie.csproj": {
-              "projectPath": "C:\\Users\\henri\\source\\repos\\KaskataDDD\\KaskataDDD.Entitie\\KaskataDDD.Entitie.csproj"
+            "C:\\Users\\henri\\source\\repos\\KaskataApp-C-.NetCore\\KaskataDDD.Domain\\KaskataDDD.Domain.csproj": {
+              "projectPath": "C:\\Users\\henri\\source\\repos\\KaskataApp-C-.NetCore\\KaskataDDD.Domain\\KaskataDDD.Domain.csproj"
+            },
+            "C:\\Users\\henri\\source\\repos\\KaskataApp-C-.NetCore\\KaskataDDD.Entitie\\KaskataDDD.Entitie.csproj": {
+              "projectPath": "C:\\Users\\henri\\source\\repos\\KaskataApp-C-.NetCore\\KaskataDDD.Entitie\\KaskataDDD.Entitie.csproj"
             }
           }
         }

@@ -2471,11 +2471,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\henri\\source\\repos\\KaskataDDD\\KaskataDDD.Entitie\\KaskataDDD.Entitie.csproj",
+      "projectUniqueName": "C:\\Users\\henri\\source\\repos\\KaskataApp-C-.NetCore\\KaskataDDD.Entitie\\KaskataDDD.Entitie.csproj",
       "projectName": "KaskataDDD.Entitie",
-      "projectPath": "C:\\Users\\henri\\source\\repos\\KaskataDDD\\KaskataDDD.Entitie\\KaskataDDD.Entitie.csproj",
+      "projectPath": "C:\\Users\\henri\\source\\repos\\KaskataApp-C-.NetCore\\KaskataDDD.Entitie\\KaskataDDD.Entitie.csproj",
       "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\henri\\source\\repos\\KaskataDDD\\KaskataDDD.Entitie\\obj\\",
+      "outputPath": "C:\\Users\\henri\\source\\repos\\KaskataApp-C-.NetCore\\KaskataDDD.Entitie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
